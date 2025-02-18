@@ -1,5 +1,5 @@
 # ¡Hola! 👋  
-### Soy una desarrolladora Full-Stack recibida en Digital House y actualmente me estoy especializando en **Front-End** en CoderHouse. Apasionada por crear soluciones innovadoras y siempre en busca de nuevos desafíos. ¡Gracias por visitar mi perfil!
+#### Soy una desarrolladora Full-Stack recibida en Digital House y actualmente me estoy especializando en **Front-End** en CoderHouse. Apasionada por crear soluciones innovadoras y siempre en busca de nuevos desafíos. ¡Gracias por visitar mi perfil!
 
 - 👋 Me llamo **@ro-martinez-git**
 - 👀 Interesada en el desarrollo web y móvil, con foco en **JavaScript**, **React**, **Node.js**, y diseño de interfaces.
