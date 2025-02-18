@@ -1,11 +1,10 @@
-# Hola! 👋
-### Soy una chica apasionada por la porgramación, y en este momento me encuentro capacitandome, gracias por visitar mi perfil. 
-
-- 👋 Hi, I’m @ro-martinez-git
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+¡Hola! 👋
+Soy una desarrolladora Full-Stack recibida en Digital House y actualmente me estoy especializando en Front-End en CoderHouse. Apasionada por crear soluciones innovadoras y siempre en busca de nuevos desafíos. ¡Gracias por visitar mi perfil!
+👋 Me llamo @ro-martinez-git
+👀 Interesada en el desarrollo web y móvil, con foco en JavaScript, React, Node.js, y diseño de interfaces.
+🌱 Actualmente profundizando mis conocimientos en Front-End para crear experiencias más atractivas y funcionales.
+💞️ Busco colaborar en proyectos que me permitan seguir aprendiendo y aportar al desarrollo de software de calidad.
+📫 Puedes contactarme a través de roomartinez988@gmail.com
 
 <!---
 ro-martinez-git/ro-martinez-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
